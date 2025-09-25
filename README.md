@@ -10,11 +10,11 @@ The ABC Book Store ChatBot Project plan will provide a definition of the project
 
 ## List the Project Goals/Objectives below.
 	
-	- To develop a chatbot that can effectively handle customer inquiries and requests.    
+1. To develop a chatbot that can effectively handle customer inquiries and requests.    
 	
-	- To provide readily accessible support to customers, automating responses to common questions and issues, and streamlining the customer service process.    
+2. To provide readily accessible support to customers, automating responses to common questions and issues, and streamlining the customer service process.    
 	
-	- To design and implement a chatbot that can guide customers toward making informed purchasing decisions, potentially increasing sales and revenue for ABC Book Store.    
+3. To design and implement a chatbot that can guide customers toward making informed purchasing decisions, potentially increasing sales and revenue for ABC Book Store.    
 	
 	
 	
@@ -53,11 +53,11 @@ The ABC Book Store ChatBot Project plan will provide a definition of the project
 •	Training materials and knowledge transfer sessions for ABC Book Store staff on managing and utilizing the chatbot effectively.
 
 ## Risk Assessment
-	The initial Risk Assessment (following page) attempts to identify, characterize, prioritize and document a mitigation approach relative to those risks which can be identified prior to the start of the project. 
+1. The initial Risk Assessment (following page) attempts to identify, characterize, prioritize and document a mitigation approach relative to those risks which can be identified prior to the start of the project. 
 	
-	The Risk Assessment will be continuously monitored and updated throughout the life of the project by the Project Manager. 
+2. The Risk Assessment will be continuously monitored and updated throughout the life of the project by the Project Manager. 
 	
-	Add three risks to the table below and identify the risk level, the risk likelihood, and the mitigation strategy if the risk event occurs. 
+3. Add three risks to the table below and identify the risk level, the risk likelihood, and the mitigation strategy if the risk event occurs. 
  
 
 
