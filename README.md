@@ -1,1 +1,1 @@
-# BookstoreChatbot
+# ABC Book Store Project Plan
